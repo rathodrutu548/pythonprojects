@@ -1,5 +1,5 @@
 import time
-String='I love you'
+String='Hello World'
 wordcount=len(String.split())
 print(String)
 while True:
