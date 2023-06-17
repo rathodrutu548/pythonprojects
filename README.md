@@ -117,7 +117,7 @@ This script can be scheduled to run automatically during specific times or integ
 **
 ##  Project-14: "Voice Assistant"
 **
-##  Project-15: "Gmail Automate"
+##  Project-15: "Send Gmail with Attachment"
 **
 ##  Project-16: "Google Translate"
 **
