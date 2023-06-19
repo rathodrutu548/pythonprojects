@@ -261,3 +261,14 @@ The script takes the following steps:
 4. Displays the approximate location of the phone on a map.
 
 This script requires an API key to access the phone tracking service. Please refer to the API documentation to obtain the necessary key and ensure compliance with the service's terms of use.
+##  Project-31: "Localhost Server Using Python"
+*Server.html* -->The local host server script allows you to create a simple web server on your local machine using Python. It provides a convenient way to serve static files or test web applications locally without the need for a full-fledged web server.
+
+The script takes the following steps:
+1. Configures the server settings, such as the host address and port number.
+2. Sets up a basic HTTP server using Python's built-in http.server module.
+3. Handles incoming requests and serves the requested files or content.
+4. Listens for connections and responds to client requests.
+###**Note:-Follow the steps written in the server.html file.**
+
+This script can be customized to include additional functionality, such as handling dynamic content, implementing routing, or supporting specific web frameworks.
