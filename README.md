@@ -334,3 +334,13 @@ The script takes the following steps:
 4. Saves the encrypted or decrypted file with a new name or in a new location.
 
 This script can be customized to support different encryption algorithms, handle large files efficiently, or integrate with other security measures like password protection.
+##  Project-38: "BMI Calculator"
+*bmi_calculator.py* -->The BMI calculator script allows you to calculate your BMI, which is a measure of body fat based on your height and weight. It provides a simple way to assess whether you are underweight, normal weight, overweight, or obese according to standard BMI categories.
+
+The script takes the following steps:
+1. Prompts the user to enter their height in meters or feet and inches.
+2. Prompts the user to enter their weight in kilograms or pounds.
+3. Calculates the BMI using the provided height and weight inputs.
+4. Displays the calculated BMI along with the corresponding weight category.
+
+This script can be customized to include additional features, such as calculating body fat percentage, providing health recommendations based on BMI, or creating a graphical user interface.
