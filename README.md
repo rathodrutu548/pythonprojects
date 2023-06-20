@@ -281,3 +281,13 @@ The script takes the following steps:
 3. Displays the result of each dice roll.
 
 This script can be customized to include additional features, such as keeping track of roll statistics, implementing game rules based on the dice results, or visualizing the dice rolls in a graphical interface.
+##  Project-33: "Guess the Number Using Python"
+*guessnumber.py* -->The guess number game script allows you to play a simple game of guessing a randomly generated number. It provides an interactive and entertaining way to test your guessing skills and have fun.
+
+The script takes the following steps:
+1. Generates a random number within a specified range.
+2. Prompts the user to enter their guess.
+3. Compares the user's guess with the generated number and provides feedback (e.g., too high, too low, or correct).
+4. Continues the game until the user guesses the correct number.
+5. 
+This script can be customized to include additional features, such as setting difficulty levels, tracking the number of attempts, or implementing time limits.
