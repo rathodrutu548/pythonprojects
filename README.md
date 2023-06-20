@@ -354,3 +354,14 @@ The script takes the following steps:
 4. Saves the extracted data in a suitable format, such as a CSV file, JSON file, or database.
 
 This script can be customized to scrape data from different websites, handle pagination or dynamic content, or perform more complex data processing and analysis.
+##  Project-40: "Movie Library Manager"
+*movie_library_manager.py* -->The movie library manager script allows you to keep track of your movie collection and easily find information about your favorite films. It provides a user-friendly interface to add new movies to your library, remove movies that you no longer own, and search for movies by title, genre, or release year.
+
+The script takes the following steps:
+1. Presents a menu of options to the user, including adding a new movie, removing a movie, and searching for movies.
+2. If the user chooses to add a movie, prompts for the movie's title, genre, and release year.
+3. Stores the entered movie details in a data structure, such as a list or dictionary.
+4. If the user chooses to remove a movie, prompts for the movie's title and removes it from the library.
+5. If the user chooses to search for movies, prompts for the search criteria and displays the matching movies.
+
+This script can be customized to include additional features, such as rating movies, managing movie formats, or integrating with an online movie database API for automatic movie data retrieval.
