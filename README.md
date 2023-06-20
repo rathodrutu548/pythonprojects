@@ -324,3 +324,13 @@ The script takes the following steps:
 4. Displays the generated password for the user to copy and use.
 
 This script can be customized to include additional features, such as enforcing password complexity rules, saving passwords to a file, or integrating with password management systems.
+##  Project-37: "Encryption/Decryption of File"
+*encrypt_decrypt.py* -->The file encryption/decryption script provides a simple and effective way to protect the contents of a file by encrypting it using a specified encryption algorithm. It also enables you to decrypt the encrypted file and retrieve the original contents.
+
+The script takes the following steps:
+1. Prompts the user to select the file to encrypt or decrypt.
+2. Offers a choice to either encrypt or decrypt the selected file.
+3. Performs the encryption or decryption operation based on the user's choice and using the specified encryption algorithm.
+4. Saves the encrypted or decrypted file with a new name or in a new location.
+
+This script can be customized to support different encryption algorithms, handle large files efficiently, or integrate with other security measures like password protection.
