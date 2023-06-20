@@ -304,3 +304,13 @@ The script takes the following steps:
 7. Continues the game until the word is guessed correctly or the player runs out of attempts.
 
 This script can be customized to include additional features, such as using custom word lists, implementing difficulty levels, or adding graphical interfaces.
+##  Project-35: "Mad Libs Generator"
+*madlib_genrator.py* -->The Mad Libs generator script allows you to create and play Mad Libs, a word game where players fill in the blanks of a story with different word types (such as nouns, verbs, adjectives, etc.) without knowing the context of the story. The result is a humorous and often nonsensical story created by the unexpected word choices.
+
+The script takes the following steps:
+1. Presents a Mad Libs story template with placeholders for different word types.
+2. Prompts the user to enter specific word types based on the placeholders (e.g., noun, verb, adjective).
+3. Stores the user's input and replaces the placeholders with the entered words.
+4. Displays the completed Mad Libs story with the substituted words.
+
+This script can be customized to include additional stories, incorporate different word types, or enhance the user experience with graphical interfaces.
