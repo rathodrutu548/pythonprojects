@@ -314,3 +314,13 @@ The script takes the following steps:
 4. Displays the completed Mad Libs story with the substituted words.
 
 This script can be customized to include additional stories, incorporate different word types, or enhance the user experience with graphical interfaces.
+##  Project-36: "Password Generator"
+*password_generator.py* -->The password generator script allows you to create random and complex passwords with a desired length and combination of characters. It provides a convenient way to generate strong passwords that are resistant to various types of attacks.
+
+The script takes the following steps:
+1. Prompts the user to enter the desired length of the password.
+2. Asks for the inclusion of different types of characters, such as uppercase letters, lowercase letters, digits, and special symbols.
+3. Generates a random password based on the user's preferences.
+4. Displays the generated password for the user to copy and use.
+
+This script can be customized to include additional features, such as enforcing password complexity rules, saving passwords to a file, or integrating with password management systems.
