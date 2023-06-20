@@ -344,3 +344,13 @@ The script takes the following steps:
 4. Displays the calculated BMI along with the corresponding weight category.
 
 This script can be customized to include additional features, such as calculating body fat percentage, providing health recommendations based on BMI, or creating a graphical user interface.
+##  Project-39: "Web Scraper"
+*web_scraper.py* -->The web scraper script provides a powerful tool for extracting data from websites. It allows you to automate the process of gathering information from web pages, saving you time and effort. You can use the web scraper to extract various types of data, such as text, images, links, or structured data, from HTML pages.
+
+The script takes the following steps:
+1. Requests the HTML content of a specified web page using the provided URL.
+2. Parses the HTML content using a web scraping library, such as BeautifulSoup.
+3. Navigates and searches through the parsed HTML to locate and extract the desired data.
+4. Saves the extracted data in a suitable format, such as a CSV file, JSON file, or database.
+
+This script can be customized to scrape data from different websites, handle pagination or dynamic content, or perform more complex data processing and analysis.
