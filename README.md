@@ -291,3 +291,16 @@ The script takes the following steps:
 4. Continues the game until the user guesses the correct number.
 5. 
 This script can be customized to include additional features, such as setting difficulty levels, tracking the number of attempts, or implementing time limits.
+##  Project-34: "Hangman Game"
+*hangman_game.py* -->The hangman game script allows you to play the popular word-guessing game. It provides an interactive and challenging experience where you attempt to guess a hidden word by suggesting letters.
+
+The script takes the following steps:
+1. Selects a random word from a predefined word list or database.
+2. Displays a series of underscores representing the hidden word.
+3. Prompts the user to enter a letter guess.
+4. Checks if the guessed letter is present in the word.
+5. Updates the display to reveal the correctly guessed letters.
+6. Keeps track of the remaining attempts and displays the hangman figure accordingly.
+7. Continues the game until the word is guessed correctly or the player runs out of attempts.
+
+This script can be customized to include additional features, such as using custom word lists, implementing difficulty levels, or adding graphical interfaces.
