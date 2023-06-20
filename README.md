@@ -272,3 +272,12 @@ The script takes the following steps:
 ###**Note:-Follow the steps written in the server.html file.**
 
 This script can be customized to include additional functionality, such as handling dynamic content, implementing routing, or supporting specific web frameworks.
+##  Project-32: "DiceRolling Simulator Using Python"
+*dicerollingsimulator.py* -->The dice rolling simulator script allows you to simulate the rolling of one or more dice. It provides a fun and interactive way to generate random numbers and mimic the experience of rolling physical dice.
+
+The script takes the following steps:
+1. Prompts the user to enter the number of dice to roll.
+2. Simulates the rolling of the dice by generating random numbers between 1 and 6 (representing the faces of a standard die).
+3. Displays the result of each dice roll.
+
+This script can be customized to include additional features, such as keeping track of roll statistics, implementing game rules based on the dice results, or visualizing the dice rolls in a graphical interface.
