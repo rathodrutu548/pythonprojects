@@ -483,3 +483,16 @@ f -> 102 -> 102 - 5 > a
  >>> decrypt('^r|y\x81*~ro*ws}}svo}*k~*Czw', key=10)
  
       'Throw the missiles at 9pm'
+
+##  Project-49: "Music Player GUI"
+*music_player.py* -->The music player GUI script provides a user-friendly interface for playing and managing music files. It utilizes the Tkinter library, which is a standard GUI toolkit for Python, to create the graphical interface elements and handle user interactions.
+
+The script takes the following steps:
+1. Displays a user interface with various controls, such as play/pause buttons, a volume slider, and a playlist.
+2. Allows the user to browse and select music files to add to the playlist.
+3. Provides functionality for playing, pausing, and stopping music playback.
+4. Supports features like seeking to a specific time in the track and adjusting the volume.
+5. Updates the playlist dynamically as new songs are added or removed.
+6. Provides a visually appealing and intuitive interface for a seamless music playback experience.
+
+You can customize the script to enhance its functionality and tailor it to your specific requirements. For example, you can add features like a shuffle mode, a progress bar, equalizer settings, or even integrate with online music streaming services.
