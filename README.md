@@ -435,3 +435,17 @@ The script takes the following steps:
 4. Displays the strength rating and any suggestions or recommendations for improving the password.
 
 This script can be used as a tool to assess the strength of passwords and educate users about secure password practices. It can be integrated into password management systems, registration forms, or security applications.
+##  Project-47: "Whatsapp Automation"
+*whatsapp_automation.py* -->The Whatsapp automation script provides a convenient way to automate sending messages to individuals or groups on WhatsApp. It utilizes the Selenium library, which allows you to control a web browser programmatically, to interact with the WhatsApp Web interface.
+
+The script takes the following steps:
+1. Launches a web browser (e.g., Chrome) and navigates to the WhatsApp Web URL.
+2. Waits for the user to scan the QR code using their WhatsApp mobile app to establish a connection.
+3. Allows the user to specify the target contact or group, as well as the message to be sent.
+4. Locates the specified contact or group on the WhatsApp Web interface.
+5. Enters the desired message and sends it to the selected recipient(s).
+6. Closes the web browser once the message is sent.
+
+You can customize the script to include additional features, such as sending media files (images, videos, documents), scheduling messages, or interacting with more advanced functionalities provided by the WhatsApp Web interface.
+
+Please note that automated messaging should be used responsibly and in compliance with WhatsApp's terms of service and any applicable laws or regulations.
