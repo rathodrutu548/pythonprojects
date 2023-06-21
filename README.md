@@ -404,4 +404,13 @@ Some common image manipulation tasks you can perform with these scripts include:
 These scripts can be integrated into your own projects, used as standalone tools, or extended to incorporate more advanced image processing techniques.
 - InputImage *input.jpg*
 - OutputImage *resized.jpg,cropped.jpg,rotated.jpg,filtered.jpg*
+##  Project-44: "Random Quote Generator"
+*random_quote_generator.py* -->The random quote generator script randomly selects quotes from a collection and displays them to the user. It can be a fun and useful tool for a variety of purposes, such as adding dynamic content to websites, creating social media posts, or simply finding inspiration in daily life.
+
+The script takes the following steps:
+1. Loads a collection of quotes from a file or a predefined list.
+2. Randomly selects a quote from the collection.
+3. Displays the selected quote to the user.
+
+You can customize the collection of quotes to include your own favorite quotes or fetch quotes from external APIs. Additionally, you can enhance the script by adding features like categorizing quotes, allowing user interaction, or generating quotes based on specific themes or topics.
 
