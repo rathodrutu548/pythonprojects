@@ -472,9 +472,14 @@ f -> 102 -> 102 - 5 > a
 
 ##Demo
 
->>> from algorithms import encrypt , decrypt
->>> army_text = "Throw the missiles at 9pm"
->>> encrypt(army_text, key=10)
-'^r|y\x81*~ro*ws}}svo}*k~*Czw'
->>> decrypt('^r|y\x81*~ro*ws}}svo}*k~*Czw', key=10)
-'Throw the missiles at 9pm'
+ >>> from algorithms import encrypt , decrypt
+
+ >>> army_text = "Throw the missiles at 9pm"
+ 
+ >>> encrypt(army_text, key=10)
+ 
+     '^r|y\x81*~ro*ws}}svo}*k~*Czw'
+ 
+ >>> decrypt('^r|y\x81*~ro*ws}}svo}*k~*Czw', key=10)
+ 
+      'Throw the missiles at 9pm'
