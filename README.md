@@ -387,3 +387,21 @@ The script takes the following steps:
 4. Displays the word count results, sorted by frequency or in any other desired order.
 
 This script can be customized to handle additional text processing tasks, such as excluding common stopwords, handling punctuation, or performing case-insensitive counting.
+##  Project-43: "Image Manipulation"
+*image_manipulation.py* -->The image manipulation scripts provide a set of tools and techniques to perform various operations on images. With these scripts, you can automate tasks such as resizing, cropping, rotating, filtering, and enhancing images. Whether you're working with a single image or processing a large batch of images, these scripts offer a convenient way to modify images based on your specific requirements.
+
+The scripts leverage popular image processing libraries in Python, such as PIL (Pillow), OpenCV, or scikit-image. They provide a collection of functions and methods that can be combined and customized to achieve the desired image manipulations.
+
+Some common image manipulation tasks you can perform with these scripts include:
+1. Resizing and scaling images to specific dimensions.
+2. Cropping images to focus on a particular region of interest.
+3. Rotating and flipping images to different orientations.
+4. Applying various filters and effects, such as blurring, sharpening, or grayscale conversion.
+5. Adjusting brightness, contrast, and color levels of images.
+6. Adding text, shapes, or overlays to images.
+7. Batch processing multiple images in a folder.
+
+These scripts can be integrated into your own projects, used as standalone tools, or extended to incorporate more advanced image processing techniques.
+- InputImage *input.jpg*
+- OutputImage *resized.jpg,cropped.jpg,rotated.jpg,filtered.jpg*
+
