@@ -496,3 +496,15 @@ The script takes the following steps:
 6. Provides a visually appealing and intuitive interface for a seamless music playback experience.
 
 You can customize the script to enhance its functionality and tailor it to your specific requirements. For example, you can add features like a shuffle mode, a progress bar, equalizer settings, or even integrate with online music streaming services.
+##  Project-50: "Quiz Game"
+*quiz_game.py* -->The quiz game script presents users with a series of questions and multiple-choice answers. It keeps track of the user's score based on their correct and incorrect answers and provides feedback on their performance at the end of the quiz.
+
+The script takes the following steps:
+1. Loads a set of quiz questions from a data source, such as a CSV file or a database.
+2. Displays each question to the user along with the available choices.
+3. Waits for the user to select their answer.
+4. Checks if the user's answer is correct and updates their score accordingly.
+5. Proceeds to the next question until all questions have been answered.
+6. Displays the user's final score and provides feedback on their performance.
+
+You can customize the script by adding your own set of quiz questions, modifying the scoring mechanism, or incorporating additional features such as a time limit, hints, or difficulty levels. Additionally, you can enhance the script by implementing a leaderboard, storing user scores, or adding a graphical user interface (GUI).
