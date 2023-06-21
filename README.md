@@ -425,3 +425,13 @@ The script takes the following steps:
 6. Displays the final result and asks if the player wants to play again.
 
 This script provides a simple and interactive way to enjoy playing Sudoku and challenge your logic and problem-solving skills. It can be customized to include additional features, such as different difficulty levels, timing, or even a graphical user interface.
+##  Project-46: "Check Password Strength"
+*checkpasswordstrength.py* -->The password strength checker script evaluates the strength of passwords to determine their security level. It analyzes the complexity of passwords based on various factors, such as length, character types (uppercase, lowercase, digits, symbols), and the presence of common patterns or dictionary words.
+
+The script takes the following steps:
+1. Prompts the user to enter a password.
+2. Analyzes the password based on predefined criteria, such as minimum length, character types, and pattern checks.
+3. Calculates a strength score for the password and provides a corresponding strength rating.
+4. Displays the strength rating and any suggestions or recommendations for improving the password.
+
+This script can be used as a tool to assess the strength of passwords and educate users about secure password practices. It can be integrated into password management systems, registration forms, or security applications.
