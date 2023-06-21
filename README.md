@@ -378,7 +378,7 @@ The script takes the following steps:
 
 This script can be customized to include additional features, such as an AI opponent with different difficulty levels, a graphical user interface, or options for different board sizes.
 ##  Project-42: "WordCount Tool"
-*wordcount_tool.py* -->The word count tool script provides a convenient way to analyze the frequency of words in a text document. It reads the input text, tokenizes it into individual words, and calculates the number of occurrences for each word. This tool can be helpful in various scenarios, such as analyzing the most common words in a document, checking the frequency of specific terms, or performing basic text analysis.
+*wordcount_tool.py* *example.txt*-->The word count tool script provides a convenient way to analyze the frequency of words in a text document. It reads the input text, tokenizes it into individual words, and calculates the number of occurrences for each word. This tool can be helpful in various scenarios, such as analyzing the most common words in a document, checking the frequency of specific terms, or performing basic text analysis.
 
 The script takes the following steps:
 1. Prompts the user to enter the path to the text file or directly input the text.
