@@ -449,3 +449,32 @@ The script takes the following steps:
 You can customize the script to include additional features, such as sending media files (images, videos, documents), scheduling messages, or interacting with more advanced functionalities provided by the WhatsApp Web interface.
 
 Please note that automated messaging should be used responsibly and in compliance with WhatsApp's terms of service and any applicable laws or regulations.
+##  Project-48: "ASCII Encryption Decryption Algorithm"
+*ascii_encrypt_decrypt_algorithm.py* -->
+
+Encrypting 
+
+a - > 97 -> 97 (+|-) secret_number -> new characer
+
+Lets say our secret number is 5
+
+a -> 97 -> 97 + 5 -> f
+
+Decrypting 
+
+To descrypt we need to know the secret number otherwise we wont be able to do it so
+
+f -> 102 -> 102 (+|-) secret number -> decrypted character
+
+Since we know the serect number is 5
+
+f -> 102 -> 102 - 5 > a 
+
+##Demo
+
+>>> from algorithms import encrypt , decrypt
+>>> army_text = "Throw the missiles at 9pm"
+>>> encrypt(army_text, key=10)
+'^r|y\x81*~ro*ws}}svo}*k~*Czw'
+>>> decrypt('^r|y\x81*~ro*ws}}svo}*k~*Czw', key=10)
+'Throw the missiles at 9pm'
