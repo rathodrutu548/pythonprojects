@@ -365,3 +365,15 @@ The script takes the following steps:
 5. If the user chooses to search for movies, prompts for the search criteria and displays the matching movies.
 
 This script can be customized to include additional features, such as rating movies, managing movie formats, or integrating with an online movie database API for automatic movie data retrieval.
+##  Project-41: "Tic Tac Toe Game"
+*tic_tac_toe.py* -->The Tic Tac Toe script allows two players to play the game on a 3x3 grid. It provides a simple and interactive way to enjoy the popular game and test your strategy against an opponent.
+
+The script takes the following steps:
+1. Displays an empty Tic Tac Toe board.
+2. Alternates between the two players, prompting each player to enter their move (position on the board).
+3. Validates the move and updates the board accordingly.
+4. Checks for a winning condition after each move.
+5. Continues the game until a player wins or the game ends in a draw.
+6. Displays the final result and asks if the players want to play again.
+
+This script can be customized to include additional features, such as an AI opponent with different difficulty levels, a graphical user interface, or options for different board sizes.
