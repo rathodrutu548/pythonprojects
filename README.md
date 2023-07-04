@@ -508,3 +508,7 @@ The script takes the following steps:
 6. Displays the user's final score and provides feedback on their performance.
 
 You can customize the script by adding your own set of quiz questions, modifying the scoring mechanism, or incorporating additional features such as a time limit, hints, or difficulty levels. Additionally, you can enhance the script by implementing a leaderboard, storing user scores, or adding a graphical user interface (GUI).
+##  Project-51: "Hello World In 5 Coding Language"
+*helloworld_in_5language.py* -->
+##  Project-51: "GUI Simple Calculator"
+*tkinter_calculator.py* -->
